@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
     SwipeRefreshLayout swipeRefreshLayout;
     WebView webView;
     WebSettings webSettings;
-    //String url = "http://deniace.blogspot.co.id/";
-    String url = "https://www.tokopedia.com/";
+    String url = "http://deniace.blogspot.co.id/";
+    //String url = "https://www.tokopedia.com/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
